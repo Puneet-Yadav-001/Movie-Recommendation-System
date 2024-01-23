@@ -7,10 +7,10 @@ This repository contains the implementation of a movie recommendation system usi
 
 # Features
 
-# Collaborative Filtering: 
+**Collaborative Filtering:**
 Utilizes user-item interactions to identify similar users and recommend movies based on their preferences.
 
-# Machine Learning Algorithms: 
+**Machine Learning Algorithms:**
 Implements state-of-the-art machine learning algorithms to enhance recommendation accuracy.
 
 
