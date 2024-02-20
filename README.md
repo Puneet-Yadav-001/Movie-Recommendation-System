@@ -30,5 +30,9 @@ The system is trained on a dataset containing movie information and user ratings
 Contributions are welcome! Feel free to open issues, submit pull requests, or provide feedback on the existing features.
 
 
+# Installation
+https://github.com/puneetyadav09/Movie-Recommendation-System
+
+
 # Author:
 Puneet
